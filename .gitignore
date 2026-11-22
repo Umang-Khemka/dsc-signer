@@ -1,0 +1,16 @@
+node_modules
+.env
+credentials.json
+token.json
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Local output files
+done.txt
+failed.txt
+files.txt
+nonpdf.txt
